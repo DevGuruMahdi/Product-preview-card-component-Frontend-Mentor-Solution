@@ -5,6 +5,6 @@
 💞️ I’m looking to collaborate with developers ...
 📫 How to reach me ...
 FB : https://www.facebook.com/maybemahiiii
-Solution Live Link : 
+Solution Live Link : https://devgurumahdi.github.io/Product-preview-card-component-Frontend-Mentor-Solution/
 
 -Built with -Semantic HTML5 markup -CSS custom properties
